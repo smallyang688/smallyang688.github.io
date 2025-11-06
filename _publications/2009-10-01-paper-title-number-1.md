@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-08-14-correctnav
+excerpt: 'We propose CorrectNav, a novel framework that establishes a self-correction flywheel to enhance the performance of vision-language-action navigation models through iterative error correction and policy refinement.'
+date: 2025-08-14
+venue: 'arXiv'
+slidesurl: ''
+paperurl: 'https://arxiv.org/abs/2508.10416'
+bibtexurl: ''
+citation: 'Yu, Z.†, Long, Y.†, Yang, Z., Zeng, C., Fan, H., Zhang, J., & Dong, H.‡ (2025). &quot;CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model.&quot; <i>arXiv preprint</i> arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
