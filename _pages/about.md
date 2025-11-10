@@ -29,7 +29,7 @@ Research Interests
   
 Latest Updates
 ------
-- **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026
+- **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026!
 - **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
   *Haolin Yang†, Yuxing Long†, Zhuoyan Yu, Zihan Yang, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2510.08173)]
@@ -46,9 +46,9 @@ Currently working on
 
 Education
 ------
-- 2024.9 - Present Peking University
-- 2021.9 - 2024.9 ShenZhen Middle School
-- 2018.9 - 2021.9 Shenzhen Middle School
+- **2024.9 - Present** Peking University
+- **2021.9 - 2024.9** ShenZhen Middle School
+- **2018.9 - 2021.9** Shenzhen Middle School
 
 Contact
 ------
