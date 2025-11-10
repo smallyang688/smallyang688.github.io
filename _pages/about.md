@@ -30,6 +30,7 @@ Contact
 - **Email:** [yangzihan@stu.pku.edu.cn](mailto:yangzihan@stu.pku.edu.cn)
 - **Institution:** Peking University
 - **Location:** Beijing, China
+  
 Latest Updates
 ------
 - **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026
