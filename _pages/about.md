@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Zihan Yang - Academic Personal Website"
+title: "Zihan Yang's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Zihan Yang
+<!-- Zihan Yang -->
 ======
 Undergraduate Student in Intelligent Science and Technology | Vice President of the Academic Committee of Intelligence Science and Technology
 
@@ -17,12 +17,13 @@ About Me
 ------
 I am Zihan Yang, currently a sophomore student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University. Serving as the Vice President of the Academic Committee of Intelligence Science and Technology(ZhiXueHui).
 My primary research interest lies in **Embodied AI**, focusing on how intelligent agents can learn and interact with physical environments through sensory-motor experiences. I believe that true intelligence emerges from the interaction between an agent and its environment, and I am excited to contribute to this rapidly evolving field.
+I enjoy playing the guitar,kicking the shuttlecock,playing table tennis,and chatting with people.
 
 Research Interests
 ------
 - Embodied Artificial Intelligence
-- Manipulation
-- Navigation
+- Mobile Manipulation
+- Vision Language Navigation
 
 Contact
 ------
@@ -31,6 +32,13 @@ Contact
 - **Location:** Beijing, China
 
 Latest Updates
+------
+- **2025.10.9** - NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions
+  *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, Zihan Yang, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
+- **2025.8.14** - CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model 
+  *Zhuoyuan Yu†, Yuxing Long†, Zihan Yang, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
+
+**Currently working on**
 ------
 - Currently exploring research opportunities in embodied intelligence
 - Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
