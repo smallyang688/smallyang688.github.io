@@ -26,12 +26,6 @@ Research Interests
 - Embodied Artificial Intelligence
 - Mobile Manipulation
 - Vision Language Navigation
-
-Contact
-------
-- **Email:** [yangzihan@stu.pku.edu.cn](mailto:yangzihan@stu.pku.edu.cn)
-- **Institution:** Peking University
-- **Location:** Beijing, China
   
 Latest Updates
 ------
@@ -44,8 +38,14 @@ Latest Updates
   *Zhuoyuan Yu†, Yuxing Long†, Zihan Yang, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2508.10416)]
 
-**Currently working on**
+Currently working on
 ------
 - Currently exploring research opportunities in embodied intelligence
 - Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
 - Developing foundational skills in machine learning and robotics
+
+Contact
+------
+- **Email:** [yangzihan@stu.pku.edu.cn](mailto:yangzihan@stu.pku.edu.cn)
+- **Institution:** Peking University
+- **Location:** Beijing, China
