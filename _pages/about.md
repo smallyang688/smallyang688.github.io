@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- Zihan Yang -->
-======
+<!-- ====== -->
 Undergraduate Student in Intelligent Science and Technology | Vice President of the Academic Committee of Intelligence Science and Technology
 
 [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), Peking University
