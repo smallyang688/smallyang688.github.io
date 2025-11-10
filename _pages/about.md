@@ -19,7 +19,7 @@ I am Zihan Yang, currently a sophomore student in the Intelligent Science and Te
 
 My primary research interest lies in **Embodied AI**, focusing on how intelligent agents can learn and interact with physical environments through sensory-motor experiences. I believe that true intelligence emerges from the interaction between an agent and its environment, and I am excited to contribute to this rapidly evolving field.  
 
-I enjoy playing the guitar,kicking the shuttlecock,playing table tennis,and chatting with people.
+I enjoy playing the guitar,shuttlecock kicking,playing table tennis,and chatting with people.
 
 Research Interests
 ------
