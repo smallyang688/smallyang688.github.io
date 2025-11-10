@@ -46,9 +46,9 @@ Currently working on
 
 Education
 ------
-- **2024.9 - Present** Peking University
-- **2021.9 - 2024.9** ShenZhen Middle School
-- **2018.9 - 2021.9** Shenzhen Middle School
+- **2024.9 - Present** [Peking University](https://www.pku.edu.cn/)
+- **2021.9 - 2024.9** [ShenZhen Middle School](https://www.shenzhong.net/)
+- **2018.9 - 2021.9** [Shenzhen Middle School](https://www.shenzhong.net/)
 
 Contact
 ------
