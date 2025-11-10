@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zihan Yang's Website"
+title: "Zihan Yang"
 author_profile: true
 redirect_from: 
   - /about/
