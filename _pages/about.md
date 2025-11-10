@@ -35,7 +35,7 @@ Latest Updates
 ------
 - **2025.10.9** - NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions
   *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, Zihan Yang, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
-- **2025.8.14** - CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model 
+- **2025.8.14** - CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model
   *Zhuoyuan Yu†, Yuxing Long†, Zihan Yang, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
 
 **Currently working on**
