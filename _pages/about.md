@@ -44,6 +44,12 @@ Currently working on
 - Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
 - Developing foundational skills in machine learning and robotics
 
+Education
+------
+- 2024.9 - Present Peking University
+- 2021.9 - 2024.9 ShenZhen Middle School
+- 2018.9 - 2021.9 Shenzhen Middle School
+
 Contact
 ------
 - **Email:** [yangzihan@stu.pku.edu.cn](mailto:yangzihan@stu.pku.edu.cn)
