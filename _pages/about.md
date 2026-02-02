@@ -29,14 +29,16 @@ Research Interests
   
 Latest Updates
 ------
+- **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
 - **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026!
 - **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
   *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, Zihan Yang, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2510.08173)]
-- **2025.9.22** - Received National Scholarship
+- **2025.9.22** - Received National Scholarship!(Highest honor for undergraduates in China)
 - **2025.8.14** - Submitted "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" to arXiv  
   *Zhuoyuan Yu†, Yuxing Long†, Zihan Yang, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2508.10416)]
+- **2023.6.21** - Admitted to the School of the Gifted Young (ShaoChuang Class) at the University of Science and Technology of China (USTC).
 
 Currently working on
 ------
