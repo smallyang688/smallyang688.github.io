@@ -9,9 +9,9 @@ redirect_from:
 
 <!-- Zihan Yang -->
 <!-- ====== -->
-Undergraduate Student in Intelligent Science and Technology | Vice President of the Academic Committee of Intelligence Science and Technology
+Curious Mind | Gentle but Resolute
 
-[School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), Peking University
+[School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
 About Me
 ------
@@ -23,20 +23,24 @@ I enjoy playing the guitar,shuttlecock kicking,playing table tennis,and chatting
 
 Research Interests
 ------
-- Embodied Artificial Intelligence
-- Mobile Manipulation
 - Vision Language Navigation
+- World Model
+- Vision Language Action Model
   
 Latest Updates
 ------
+- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to ACMMM2026  
+  *Haolin Yang†, Yuxing Long†, textbf{Zihan Yang†}, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*
+  **The first VLN instruction generation framework for continuous environments!**
 - **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
 - **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026!
 - **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
-  *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, Zihan Yang, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
+  *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, textbf{Zihan Yang}, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡ (2025). arXiv preprint arXiv:2510.08173. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2510.08173)]
-- **2025.9.22** - Received National Scholarship!(Highest honor for undergraduates in China)
+- **2025.9.22** - National Scholarship(Highest honor for undergraduates in China)
+- **2025.9.22** - Merit Student of Peking University
 - **2025.8.14** - Submitted "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" to arXiv  
-  *Zhuoyuan Yu†, Yuxing Long†, Zihan Yang, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
+  *Zhuoyuan Yu†, Yuxing Long†, textbf{Zihan Yang}, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). arXiv preprint arXiv:2508.10416. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2508.10416)]
 - **2023.6.21** - Admitted to the School of the Gifted Young (ShaoChuang Class) at the University of Science and Technology of China (USTC).
 
@@ -44,7 +48,7 @@ Currently working on
 ------
 - Currently exploring research opportunities in embodied intelligence
 - Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
-- Developing foundational skills in machine learning and robotics
+- Developing foundational skills in world model and robotics
 
 Education
 ------
