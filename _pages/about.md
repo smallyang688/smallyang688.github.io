@@ -24,8 +24,7 @@ I enjoy playing the guitar,shuttlecock kicking,playing table tennis,and chatting
 Research Interests
 ------
 - Vision Language Navigation
-- World Model
-- Vision Language Action Model
+- VLA/World Model
   
 Latest Updates
 ------
