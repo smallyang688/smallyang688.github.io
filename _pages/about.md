@@ -30,7 +30,7 @@ Research Interests
 Latest Updates
 ------
 - **2026.5.25** - Submitted "RATS at Play: Robotics Agent Teams for Curiosity-Driven Continual Skill Learning" to CoRL 2026  
-  *Junyi Zhang†, Jiaxin Ge†, Hanjun Yoo, Letian Fu, **Zihan Yang**, Yaowei Liu, Raj Saravanan, Justin Yu, Dantong Niu, Shaofeng Yin, Zirui Wang, Ken Goldberg, David M. Chan, Yutong Bai, Ion Stoica, Haiwen Feng, Jiahui Lei, Trevor Darrell‡.[†Equal Contribution, ‡Corresponding Author]*
+  *Junyi Zhang†, Jiaxin Ge†, Hanjun Yoo, Letian Fu, **Zihan Yang**, Yaowei Liu, Raj Saravanan, Justin Yu, Dantong Niu, Shaofeng Yin, Zirui Wang, Ken Goldberg, Roei Herzig, David M. Chan, Yutong Bai, Ion Stoica, Angjoo Kanazawa, Haiwen Feng, Jiahui Lei, Trevor Darrell‡.[†Equal Contribution, ‡Corresponding Author]*
 - **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to ACMMM2026  
   *Haolin Yang†, Yuxing Long†, **Zihan Yang**†, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*  
   **The first VLN instruction generation framework for continuous environments!**
