@@ -28,7 +28,7 @@ Research Interests
   
 Latest Updates
 ------
-- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to ACMMM2026  
+- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to [placeholder]  
   *Haolin Yang†, Yuxing Long†, **Zihan Yang**†, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*  
   **The first VLN instruction generation framework for continuous environments!**
 - **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
