@@ -28,6 +28,7 @@ Research Interests
   
 Latest Updates
 ------
+- **2026.6.17** - **SenseTime Scholarship(30 undergraduates in China per year)**
 - **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to [placeholder]  
   *Haolin Yang†, Yuxing Long†, **Zihan Yang**†, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*  
   **The first VLN instruction generation framework for continuous environments!**
@@ -36,7 +37,7 @@ Latest Updates
 - **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
   *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, **Zihan Yang**, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡. [†Equal Contribution, ‡Corresponding Author]*
   [[Paper](https://arxiv.org/abs/2510.08173)]
-- **2025.9.22** - National Scholarship(Highest honor for undergraduates in China)
+- **2025.9.22** - **National Scholarship(Highest honor for undergraduates in China)**
 - **2025.9.22** - Merit Student of Peking University
 - **2025.8.14** - Submitted "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" to arXiv  
   *Zhuoyuan Yu†, Yuxing Long†, **Zihan Yang**, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). [†Equal Contribution, ‡Corresponding Author]*
