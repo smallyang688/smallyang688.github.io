@@ -28,6 +28,9 @@ Research Interests
   
 Latest Updates
 ------
+- **2026.6.19** - Submitted "Playful Agentic Robot Learning" to arXiv  
+  *Junyi Zhang*,†, Jiaxin Ge*,†, Hanjun Yoo†, Letian Fu‡, **Zihan Yang‡**, Yaowei Liu‡, Raj Saravanan‡, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei§, Haiwen Feng§, Trevor Darrell [*, ‡, § Equal Contribution; † Project Leads]*
+  [[Paper](https://arxiv.org/abs/2606.19419)]
 - **2026.6.17** - **SenseTime Scholarship(30 undergraduates in China per year)**
 - **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to [placeholder]  
   *Haolin Yang†, Yuxing Long†, **Zihan Yang**†, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*  
