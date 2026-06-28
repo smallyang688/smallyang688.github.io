@@ -29,21 +29,21 @@ Research Interests
 Latest Updates
 ------
 - **2026.6.19** - Submitted "Playful Agentic Robot Learning" to arXiv  
-  *Junyi Zhang*,†, Jiaxin Ge*,†, Hanjun Yoo†, Letian Fu‡, **Zihan Yang‡**, Yaowei Liu‡, Raj Saravanan‡, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei§, Haiwen Feng§, Trevor Darrell [*, ‡, § Equal Contribution; † Project Leads]*
+  Junyi Zhang<sup>*,†</sup>, Jiaxin Ge<sup>*,†</sup>, Hanjun Yoo<sup>†</sup>, Letian Fu<sup>‡</sup>, **Zihan Yang<sup>‡</sup>**, Yaowei Liu<sup>‡</sup>, Raj Saravanan<sup>‡</sup>, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei<sup>§</sup>, Haiwen Feng<sup>§</sup>, Trevor Darrell [<sup>*</sup>, <sup>‡</sup>, <sup>§</sup> Equal Contribution; <sup>†</sup> Project Leads]  
   [[Paper](https://arxiv.org/abs/2606.19419)]
-- **2026.6.17** - **SenseTime Scholarship(30 undergraduates in China per year)**
+- **2026.6.17** - **SenseTime Scholarship (30 undergraduates in China per year)**
 - **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to [placeholder]  
-  *Haolin Yang†, Yuxing Long†, **Zihan Yang**†, Hao Dong‡.[†Equal Contribution, ‡Corresponding Author]*  
+  Haolin Yang<sup>†</sup>, Yuxing Long<sup>†</sup>, **Zihan Yang<sup>†</sup>**, Hao Dong<sup>‡</sup>. [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
   **The first VLN instruction generation framework for continuous environments!**
 - **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
 - **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026!
 - **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
-  *Haolin Yang†, Yuxing Long†, Zhuoyuan Yu, **Zihan Yang**, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong‡. [†Equal Contribution, ‡Corresponding Author]*
+  Haolin Yang<sup>†</sup>, Yuxing Long<sup>†</sup>, Zhuoyuan Yu, **Zihan Yang**, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong<sup>‡</sup>. [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
   [[Paper](https://arxiv.org/abs/2510.08173)]
-- **2025.9.22** - **National Scholarship(Highest honor for undergraduates in China)**
+- **2025.9.22** - **National Scholarship (Highest honor for undergraduates in China)**
 - **2025.9.22** - Merit Student of Peking University
 - **2025.8.14** - Submitted "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" to arXiv  
-  *Zhuoyuan Yu†, Yuxing Long†, **Zihan Yang**, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong‡ (2025). [†Equal Contribution, ‡Corresponding Author]*
+  Zhuoyuan Yu<sup>†</sup>, Yuxing Long<sup>†</sup>, **Zihan Yang**, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong<sup>‡</sup> (2025). [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
   [[Paper](https://arxiv.org/abs/2508.10416)]
 - **2023.6.21** - Admitted to the School of the Gifted Young (ShaoChuang Class) at the University of Science and Technology of China (USTC).
 
