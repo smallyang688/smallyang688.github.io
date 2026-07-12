@@ -28,11 +28,12 @@ Research Interests
   
 Latest Updates
 ------
+- **2026.7.10** - "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" accepted to ACMMM 2026!
 - **2026.6.19** - Submitted "Playful Agentic Robot Learning" to arXiv  
   Junyi Zhang<sup>*,†</sup>, Jiaxin Ge<sup>*,†</sup>, Hanjun Yoo<sup>†</sup>, Letian Fu<sup>‡</sup>, **Zihan Yang<sup>‡</sup>**, Yaowei Liu<sup>‡</sup>, Raj Saravanan<sup>‡</sup>, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei<sup>§</sup>, Haiwen Feng<sup>§</sup>, Trevor Darrell [<sup>*</sup>, <sup>‡</sup>, <sup>§</sup> Equal Contribution; <sup>†</sup> Project Leads]  
   [[Paper](https://arxiv.org/abs/2606.19419)]
 - **2026.6.17** - **SenseTime Scholarship (30 undergraduates in China per year)**
-- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to [placeholder]  
+- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to ACMMM2026  
   Haolin Yang<sup>†</sup>, Yuxing Long<sup>†</sup>, **Zihan Yang<sup>†</sup>**, Hao Dong<sup>‡</sup>. [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
   **The first VLN instruction generation framework for continuous environments!**
 - **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
