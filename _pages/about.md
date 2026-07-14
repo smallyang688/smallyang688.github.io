@@ -23,6 +23,7 @@ I enjoy playing the guitar,shuttlecock kicking,playing table tennis,and chatting
 
 Research Interests
 ------
+- Agentic Robot Learning/Code as Policy
 - Vision Language Navigation
 - VLA/World Model
   
