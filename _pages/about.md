@@ -128,6 +128,13 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
+      <h3 class="award-card__title">Huang Yicong Scholarship（黄奕聪奖学金）</h3>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2025</div>
+    <div class="award-card__body">
       <h3 class="award-card__title">Merit Student of Peking University</h3>
     </div>
   </article>
