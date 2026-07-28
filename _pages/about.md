@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Curious Mind | Gentle but Resolute
+<p class="homepage-tagline">Curious Mind <span>|</span> Gentle but Resolute</p>
 
 [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 

@@ -111,6 +111,19 @@
   }
 }
 
+.homepage-tagline {
+  margin-top: 0;
+  color: var(--global-text-color-light);
+  font-family: $sans-serif-narrow;
+  font-size: 1.05rem;
+  font-weight: 700;
+
+  span {
+    color: var(--global-link-color-hover);
+    padding: 0 0.35rem;
+  }
+}
+
 .publication-list,
 .award-list {
   display: grid;
