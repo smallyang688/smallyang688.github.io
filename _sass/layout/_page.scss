@@ -111,6 +111,184 @@
   }
 }
 
+.publication-list,
+.award-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.publication-card,
+.award-card {
+  background: var(--global-card-bg-color, #fff);
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  box-shadow: 0 8px 24px var(--global-card-shadow-color, rgba(0, 0, 0, 0.06));
+}
+
+.publication-card {
+  display: grid;
+  grid-template-columns: minmax(150px, 28%) 1fr;
+  gap: 1rem;
+  padding: 1rem;
+  align-items: stretch;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.publication-card__teaser {
+  min-height: 132px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  overflow: hidden;
+  color: var(--global-highlight-text-color);
+  text-align: center;
+  font-family: $sans-serif-narrow;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.25;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  background:
+    linear-gradient(135deg, rgba(255, 241, 184, 0.92), rgba(255, 250, 240, 0.78)),
+    radial-gradient(circle at 18% 22%, rgba(154, 95, 0, 0.18), transparent 30%),
+    radial-gradient(circle at 82% 70%, rgba(154, 95, 0, 0.12), transparent 34%);
+
+  span {
+    display: block;
+  }
+}
+
+.publication-card__teaser--robot {
+  background:
+    linear-gradient(135deg, rgba(255, 241, 184, 0.86), rgba(247, 236, 213, 0.74)),
+    radial-gradient(circle at 25% 28%, rgba(47, 127, 147, 0.22), transparent 31%),
+    radial-gradient(circle at 70% 72%, rgba(154, 95, 0, 0.14), transparent 32%);
+}
+
+.publication-card__teaser--space {
+  background:
+    linear-gradient(135deg, rgba(255, 246, 223, 0.9), rgba(255, 241, 184, 0.74)),
+    radial-gradient(circle at 22% 72%, rgba(111, 68, 0, 0.2), transparent 34%),
+    radial-gradient(circle at 76% 28%, rgba(47, 127, 147, 0.16), transparent 32%);
+}
+
+.publication-card__teaser--correction {
+  background:
+    linear-gradient(135deg, rgba(255, 241, 184, 0.86), rgba(255, 250, 240, 0.82)),
+    repeating-linear-gradient(135deg, rgba(154, 95, 0, 0.12) 0 8px, transparent 8px 18px);
+}
+
+.publication-card__teaser--world {
+  background:
+    linear-gradient(135deg, rgba(255, 241, 184, 0.88), rgba(234, 223, 202, 0.82)),
+    radial-gradient(circle at 50% 50%, rgba(154, 95, 0, 0.22), transparent 38%),
+    radial-gradient(circle at 80% 18%, rgba(47, 127, 147, 0.14), transparent 28%);
+}
+
+.publication-card__body,
+.award-card__body {
+  min-width: 0;
+}
+
+.publication-card__title,
+.award-card__title {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  line-height: 1.35;
+}
+
+.publication-card__title {
+  font-size: 1.02rem;
+}
+
+.publication-card__authors {
+  margin-bottom: 0.65rem;
+  color: var(--global-text-color);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.publication-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  align-items: center;
+}
+
+.publication-tag,
+.publication-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.8rem;
+  padding: 0.25rem 0.55rem;
+  font-family: $sans-serif-narrow;
+  font-size: 0.78rem;
+  font-weight: 700;
+  border-radius: 999px;
+}
+
+.publication-tag {
+  color: var(--global-highlight-text-color);
+  background: var(--global-accent-soft-color, #fff1b8);
+  border: 1px solid var(--global-border-color);
+}
+
+.publication-tag--highlight {
+  color: var(--global-button-text-color, #fff);
+  background: var(--global-base-color);
+  border-color: var(--global-base-color);
+}
+
+.publication-link {
+  color: var(--global-link-color);
+  background: transparent;
+  border: 1px solid var(--global-link-color);
+  text-decoration: none !important;
+
+  &:hover {
+    color: var(--global-button-text-color, #fff);
+    background: var(--global-link-color-hover);
+    border-color: var(--global-link-color-hover);
+  }
+}
+
+.award-card {
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+}
+
+.award-card--featured {
+  border-left: 4px solid var(--global-base-color);
+}
+
+.award-card__date {
+  color: var(--global-link-color-hover);
+  font-family: $sans-serif-narrow;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.award-card__title {
+  font-size: 1rem;
+}
+
+.award-card p {
+  margin-bottom: 0.35rem;
+  font-size: 0.92rem;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

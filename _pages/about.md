@@ -2,58 +2,145 @@
 permalink: /
 title: "Zihan Yang"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- Zihan Yang -->
-<!-- ====== -->
 Curious Mind | Gentle but Resolute
 
 [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
 About Me
 ------
-I am Zihan Yang, currently a sophomore student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University. Serving as the Vice President of the Academic Committee of Intelligence Science and Technology ([ZhiXueHui](https://mp.weixin.qq.com/s/_nTF0C9K6FpObSR_m7Hy6A)).  
+I am Zihan Yang, currently a sophomore student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University. Serving as the Vice President of the Academic Committee of Intelligence Science and Technology ([ZhiXueHui](https://mp.weixin.qq.com/s/_nTF0C9K6FpObSR_m7Hy6A)).
 
-My primary research interest lies in **Embodied AI**, focusing on how intelligent agents can learn and interact with physical environments through sensory-motor experiences. I believe that true intelligence emerges from the interaction between an agent and its environment, and I am excited to contribute to this rapidly evolving field.  
+My primary research interest lies in **Embodied AI**, focusing on how intelligent agents can learn and interact with physical environments through sensory-motor experiences. I believe that true intelligence emerges from the interaction between an agent and its environment, and I am excited to contribute to this rapidly evolving field.
 
-I enjoy playing the guitar,shuttlecock kicking,playing table tennis,and chatting with people.
+I enjoy playing the guitar, shuttlecock kicking, playing table tennis, and chatting with people.
 
 Research Interests
 ------
-- Agentic Robot Learning/Code as Policy
-- Vision Language Navigation
-- VLA/World Model
-  
-Latest Updates
-------
-- **2026.7.10** - "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" accepted to ACMMM 2026!
-- **2026.6.19** - Submitted "Playful Agentic Robot Learning" to arXiv  
-  Junyi Zhang<sup>*,†</sup>, Jiaxin Ge<sup>*,†</sup>, Hanjun Yoo<sup>†</sup>, Letian Fu<sup>‡</sup>, **Zihan Yang<sup>‡</sup>**, Yaowei Liu<sup>‡</sup>, Raj Saravanan<sup>‡</sup>, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei<sup>§</sup>, Haiwen Feng<sup>§</sup>, Trevor Darrell [<sup>*</sup>, <sup>‡</sup>, <sup>§</sup> Equal Contribution; <sup>†</sup> Project Leads]  
-  [[Paper](https://arxiv.org/abs/2606.19419)]
-- **2026.6.17** - **SenseTime Scholarship (30 undergraduates in China per year)**
-- **2026.4.2** - Submitted "VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments" to ACMMM2026  
-  Haolin Yang<sup>†</sup>, Yuxing Long<sup>†</sup>, **Zihan Yang<sup>†</sup>**, Hao Dong<sup>‡</sup>. [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
-  **The first VLN instruction generation framework for continuous environments!**
-- **2026.1.31** - "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" accepted to ICRA 2026!
-- **2025.11.8** - "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" accepted to AAAI 2026!
-- **2025.10.9** - Submitted "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions" to arXiv  
-  Haolin Yang<sup>†</sup>, Yuxing Long<sup>†</sup>, Zhuoyuan Yu, **Zihan Yang**, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong<sup>‡</sup>. [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
-  [[Paper](https://arxiv.org/abs/2510.08173)]
-- **2025.9.22** - **National Scholarship (Highest honor for undergraduates in China)**
-- **2025.9.22** - Merit Student of Peking University
-- **2025.8.14** - Submitted "CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model" to arXiv  
-  Zhuoyuan Yu<sup>†</sup>, Yuxing Long<sup>†</sup>, **Zihan Yang**, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong<sup>‡</sup> (2025). [<sup>†</sup> Equal Contribution, <sup>‡</sup> Corresponding Author]  
-  [[Paper](https://arxiv.org/abs/2508.10416)]
-- **2023.6.21** - Admitted to the School of the Gifted Young (ShaoChuang Class) at the University of Science and Technology of China (USTC).
+- Agentic Robot Learning / Code as Policy
+- Vision-Language Navigation
+- VLA / World Model
 
-Currently working on
+Selected Publications
 ------
-- Currently exploring research opportunities in embodied intelligence
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--navigation">
+      <span>VTInstructor</span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
+      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">ACM MM 2026</span>
+        <span class="publication-tag publication-tag--highlight">Continuous VLN</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--robot">
+      <span>Playful Agentic Robot Learning</span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">Playful Agentic Robot Learning</h3>
+      <p class="publication-card__authors">Junyi Zhang*,&dagger;, Jiaxin Ge*,&dagger;, Hanjun Yoo&dagger;, Letian Fu&Dagger;, <strong>Zihan Yang&Dagger;</strong>, Yaowei Liu&Dagger;, Raj Saravanan&Dagger;, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei&sect;, Haiwen Feng&sect;, Trevor Darrell. [*, &Dagger;, &sect; Equal Contribution; &dagger; Project Leads]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">arXiv 2026</span>
+        <a class="publication-link" href="https://arxiv.org/abs/2606.19419">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--space">
+      <span>NavSpace</span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions</h3>
+      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, Zhuoyuan Yu, <strong>Zihan Yang</strong>, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">ICRA 2026</span>
+        <a class="publication-link" href="https://arxiv.org/abs/2510.08173">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--correction">
+      <span>CorrectNav</span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model</h3>
+      <p class="publication-card__authors">Zhuoyuan Yu&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang</strong>, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">AAAI 2026</span>
+        <a class="publication-link" href="https://arxiv.org/abs/2508.10416">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--world">
+      <span>LaST<sub>0.5</sub></span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
+      <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">World Action Model</span>
+        <span class="publication-tag publication-tag--highlight">Latent Reasoning</span>
+      </div>
+    </div>
+  </article>
+</div>
+
+Selected Awards & Funding
+------
+<div class="award-list">
+  <article class="award-card award-card--featured">
+    <div class="award-card__date">2025-present</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">国家自然科学基金（本科生）资助项目</h3>
+      <p><strong>项目名称：</strong>面向物理世界智能涌现的世界模型构建与自进化方法研究</p>
+      <p><strong>身份/职责：</strong><strong>项目负责人（主持）</strong>，获国家自然科学基金委全额资助</p>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2026</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">SenseTime Scholarship</h3>
+      <p>Selected as one of 30 undergraduate recipients in China.</p>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2025</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">National Scholarship</h3>
+      <p>Highest honor for undergraduates in China.</p>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2025</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">Merit Student of Peking University</h3>
+      <p>Recognized for academic performance and campus contribution.</p>
+    </div>
+  </article>
+</div>
+
+Currently Working On
+------
+- Leading an NSFC-funded undergraduate research project on world model construction and self-evolution for emergent physical-world intelligence
+- Exploring research opportunities in embodied intelligence
 - Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
-- Developing foundational skills in world model and robotics
 
 Education
 ------

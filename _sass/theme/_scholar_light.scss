@@ -17,6 +17,9 @@ $button-text                : #ffffff;
 $button-hover-text          : #ffffff;
 $highlight                  : #fff1b8;
 $highlight-text             : #3f2b00;
+$card-background            : #ffffff;
+$card-shadow                : rgba(154, 95, 0, 0.08);
+$accent-soft                : #fff1b8;
 $code-background            : #fff6df;
 $code-text                  : #3c3528;
 $thead                      : #f3e6cb;
@@ -61,4 +64,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-thead-color                : #{$thead};
     --global-highlight-bg-color         : #{$highlight};
     --global-highlight-text-color       : #{$highlight-text};
+    --global-card-bg-color              : #{$card-background};
+    --global-card-shadow-color          : #{$card-shadow};
+    --global-accent-soft-color          : #{$accent-soft};
 }

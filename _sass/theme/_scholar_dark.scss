@@ -18,6 +18,9 @@ $button-text                : #ffffff;
 $button-hover-text          : #252018;
 $highlight                  : #5a4108;
 $highlight-text             : #fff4cc;
+$card-background            : #30291e;
+$card-shadow                : rgba(0, 0, 0, 0.24);
+$accent-soft                : #5a4108;
 $code-background            : #fff6df;
 $code-text                  : #3c3528;
 $thead                      : #403627;
@@ -62,4 +65,7 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$thead};
     --global-highlight-bg-color         : #{$highlight};
     --global-highlight-text-color       : #{$highlight-text};
+    --global-card-bg-color              : #{$card-background};
+    --global-card-shadow-color          : #{$card-shadow};
+    --global-accent-soft-color          : #{$accent-soft};
 }
