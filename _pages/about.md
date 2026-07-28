@@ -113,7 +113,7 @@ Selected Awards & Funding
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
       <h3 class="award-card__title">SenseTime Scholarship</h3>
-      <p>30 undergraduates per year.</p>
+      <p>No more than 30 undergraduate recipients nationwide each year!</p>
     </div>
   </article>
 
@@ -121,7 +121,7 @@ Selected Awards & Funding
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
       <h3 class="award-card__title">National Scholarship</h3>
-      <p>Highest honor for undergraduates in China.</p>
+      <p>Highest honor for undergraduates in China!</p>
     </div>
   </article>
 
