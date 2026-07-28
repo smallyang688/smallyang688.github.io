@@ -1,0 +1,65 @@
+/* ==========================================================================
+   SCHOLAR DARK THEME
+   Dark companion for the warm academic palette.
+   ========================================================================== */
+
+/* Color codes used for the theme */
+$background                 : #252018;
+$footer                     : #1d1811;
+$border                     : #5a4b35;
+$dark-border                : #78684e;
+$text                       : #f7f0e5;
+$text-light                 : #d6c4a6;
+$base-accent                : #a16207;
+$accent                     : #f0b429;
+$accent-hover               : #ffd166;
+$accent-visited             : #d9a441;
+$button-text                : #ffffff;
+$button-hover-text          : #252018;
+$highlight                  : #5a4108;
+$highlight-text             : #fff4cc;
+$code-background            : #fff6df;
+$code-text                  : #3c3528;
+$thead                      : #403627;
+
+/* Color codes used for the site */
+$danger-color               : #ee5f5b;
+$info-color                 : #72b7a1;
+$notice-color               : #b5a27f;
+$success-color              : #62c462;
+$warning-color              : #f0b429;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$base-accent};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$border};
+    --global-dark-border-color          : #{$dark-border};
+    --global-code-background-color      : #{$code-background};
+    --global-code-text-color            : #{$code-text};
+    --global-fig-caption-color          : #{$text-light};
+    --global-link-color                 : #{$accent};
+    --global-link-color-hover           : #{$accent-hover};
+    --global-link-color-visited         : #{$accent-visited};
+    --global-button-text-color          : #{$button-text};
+    --global-button-hover-color         : #{$accent-hover};
+    --global-button-hover-text-color    : #{$button-hover-text};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$accent-hover};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$text-light};
+    --global-thead-color                : #{$thead};
+    --global-highlight-bg-color         : #{$highlight};
+    --global-highlight-text-color       : #{$highlight-text};
+}

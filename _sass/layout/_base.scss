@@ -64,6 +64,14 @@ p {
   margin-bottom: 1.3em;
 }
 
+mark,
+.highlight-text {
+  padding: 0.05em 0.25em;
+  color: var(--global-highlight-text-color, #3f2b00);
+  background-color: var(--global-highlight-bg-color, #fff1b8);
+  border-radius: $border-radius;
+}
+
 u,
 ins {
   text-decoration: none;

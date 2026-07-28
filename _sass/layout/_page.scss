@@ -59,6 +59,10 @@
     font-size: 1em;
   }
 
+  strong {
+    color: var(--global-link-color-hover);
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
