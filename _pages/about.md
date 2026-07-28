@@ -29,15 +29,15 @@ Selected Publications
 ------
 <div class="publication-list">
   <article class="publication-card">
-    <div class="publication-card__teaser publication-card__teaser--navigation">
-      <span>VTInstructor</span>
+    <div class="publication-card__teaser publication-card__teaser--world">
+      <span>LaST<sub>0.5</sub></span>
     </div>
     <div class="publication-card__body">
-      <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
-      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
+      <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
       <div class="publication-card__meta">
-        <span class="publication-tag">ACM MM 2026</span>
-        <span class="publication-tag publication-tag--highlight">Continuous VLN</span>
+        <span class="publication-tag">World Action Model</span>
+        <span class="publication-tag publication-tag--highlight">Latent Reasoning</span>
       </div>
     </div>
   </article>
@@ -52,6 +52,20 @@ Selected Publications
       <div class="publication-card__meta">
         <span class="publication-tag">arXiv 2026</span>
         <a class="publication-link" href="https://arxiv.org/abs/2606.19419">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--navigation">
+      <span>VTInstructor</span>
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
+      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">ACM MM 2026</span>
+        <span class="publication-tag publication-tag--highlight">Continuous VLN</span>
       </div>
     </div>
   </article>
@@ -83,20 +97,6 @@ Selected Publications
       </div>
     </div>
   </article>
-
-  <article class="publication-card">
-    <div class="publication-card__teaser publication-card__teaser--world">
-      <span>LaST<sub>0.5</sub></span>
-    </div>
-    <div class="publication-card__body">
-      <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
-      <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
-      <div class="publication-card__meta">
-        <span class="publication-tag">World Action Model</span>
-        <span class="publication-tag publication-tag--highlight">Latent Reasoning</span>
-      </div>
-    </div>
-  </article>
 </div>
 
 Selected Awards & Funding
@@ -105,9 +105,9 @@ Selected Awards & Funding
   <article class="award-card award-card--featured">
     <div class="award-card__date">2025-present</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">国家自然科学基金（本科生）资助项目</h3>
-      <p><strong>项目名称：</strong>面向物理世界智能涌现的世界模型构建与自进化方法研究</p>
-      <p><strong>身份/职责：</strong><strong>项目负责人（主持）</strong>，获国家自然科学基金委全额资助</p>
+      <h3 class="award-card__title">National Natural Science Foundation of China Undergraduate Research Grant</h3>
+      <p><strong>Project:</strong> World Model Construction and Self-Evolution Methods for Emergent Intelligence in the Physical World</p>
+      <p><strong>Role:</strong> <strong>Principal Investigator / Project Lead</strong>, fully funded by the National Natural Science Foundation of China</p>
     </div>
   </article>
 
