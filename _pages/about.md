@@ -100,6 +100,21 @@ Selected Publications
 Selected Awards & Funding
 ------
 <div class="award-list">
+  <article class="award-card">
+    <div class="award-card__date">2026</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title award-card__title--highlight">SenseTime Scholarship（商汤奖学金）</h3>
+      <p>No more than 30 undergraduate recipients nationwide each year!</p>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2026</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">Huang Yicong Scholarship</h3>
+    </div>
+  </article>
+
   <article class="award-card award-card--featured">
     <div class="award-card__date">2025-present</div>
     <div class="award-card__body">
@@ -110,25 +125,10 @@ Selected Awards & Funding
   </article>
 
   <article class="award-card">
-    <div class="award-card__date">2026</div>
-    <div class="award-card__body">
-      <h3 class="award-card__title award-card__title--highlight">SenseTime Scholarship</h3>
-      <p>No more than 30 undergraduate recipients nationwide each year!</p>
-    </div>
-  </article>
-
-  <article class="award-card">
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
       <h3 class="award-card__title award-card__title--highlight">National Scholarship</h3>
       <p>Highest honor for undergraduates in China!</p>
-    </div>
-  </article>
-
-  <article class="award-card">
-    <div class="award-card__date">2025</div>
-    <div class="award-card__body">
-      <h3 class="award-card__title">Huang Yicong Scholarship（黄奕聪奖学金）</h3>
     </div>
   </article>
 
