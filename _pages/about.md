@@ -28,7 +28,10 @@ Research Interests
 Selected Publications
 ------
 <div class="publication-list">
-  <article class="publication-card publication-card--no-teaser">
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--world">
+      <span>LaST<sub>0.5</sub></span>
+    </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
       <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
@@ -52,7 +55,10 @@ Selected Publications
     </div>
   </article>
 
-  <article class="publication-card publication-card--no-teaser">
+  <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--navigation">
+      <span>VTInstructor</span>
+    </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
       <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>

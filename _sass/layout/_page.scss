@@ -151,10 +151,6 @@
   }
 }
 
-.publication-card--no-teaser {
-  grid-template-columns: 1fr;
-}
-
 .publication-card__teaser {
   min-height: 132px;
   display: flex;
@@ -198,6 +194,13 @@
   background:
     linear-gradient(135deg, rgba(255, 241, 184, 0.86), rgba(255, 250, 240, 0.82)),
     repeating-linear-gradient(135deg, rgba(154, 95, 0, 0.12) 0 8px, transparent 8px 18px);
+}
+
+.publication-card__teaser--world {
+  background:
+    linear-gradient(135deg, rgba(255, 241, 184, 0.88), rgba(234, 223, 202, 0.82)),
+    radial-gradient(circle at 50% 50%, rgba(154, 95, 0, 0.22), transparent 38%),
+    radial-gradient(circle at 80% 18%, rgba(47, 127, 147, 0.14), transparent 28%);
 }
 
 .publication-card__body,
