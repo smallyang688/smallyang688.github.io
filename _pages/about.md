@@ -103,7 +103,7 @@ Selected Awards & Funding
   <article class="award-card award-card--featured">
     <div class="award-card__date">2025-present</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">National Natural Science Foundation of China Undergraduate Research Grant（国家自然科学基金（本科生））</h3>
+      <h3 class="award-card__title award-card__title--highlight">National Natural Science Foundation of China Undergraduate Research Grant（国家自然科学基金（本科生））</h3>
       <p><strong>Project:</strong> Research on World Model Construction and Self-Evolution Methods for Intelligent Emergence Oriented to the Physical World</p>
       <p><strong>Role:</strong> <strong>Principal Investigator</strong>, fully funded by the National Natural Science Foundation of China</p>
     </div>
@@ -112,7 +112,7 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">SenseTime Scholarship</h3>
+      <h3 class="award-card__title award-card__title--highlight">SenseTime Scholarship</h3>
       <p>No more than 30 undergraduate recipients nationwide each year!</p>
     </div>
   </article>
@@ -120,7 +120,7 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">National Scholarship</h3>
+      <h3 class="award-card__title award-card__title--highlight">National Scholarship</h3>
       <p>Highest honor for undergraduates in China!</p>
     </div>
   </article>

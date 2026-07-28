@@ -297,9 +297,17 @@
   font-size: 1rem;
 }
 
+.award-card__title--highlight {
+  color: var(--global-link-color-hover);
+}
+
 .award-card p {
   margin-bottom: 0.35rem;
   font-size: 0.92rem;
+}
+
+.award-card strong {
+  color: inherit;
 }
 
 .page__hero {
