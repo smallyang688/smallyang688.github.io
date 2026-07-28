@@ -28,13 +28,13 @@ Research Interests
 Selected Publications
 ------
 <div class="publication-list">
-  <article class="publication-card">
-    <div class="publication-card__teaser publication-card__teaser--world">
-      <span>LaST<sub>0.5</sub></span>
-    </div>
+  <article class="publication-card publication-card--no-teaser">
     <div class="publication-card__body">
       <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
       <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">arXiv 2026</span>
+      </div>
     </div>
   </article>
 
@@ -52,10 +52,7 @@ Selected Publications
     </div>
   </article>
 
-  <article class="publication-card">
-    <div class="publication-card__teaser publication-card__teaser--navigation">
-      <span>VTInstructor</span>
-    </div>
+  <article class="publication-card publication-card--no-teaser">
     <div class="publication-card__body">
       <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
       <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
@@ -100,9 +97,9 @@ Selected Awards & Funding
   <article class="award-card award-card--featured">
     <div class="award-card__date">2025-present</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">National Natural Science Foundation of China Undergraduate Research Grant</h3>
-      <p><strong>Project:</strong> World Model Construction and Self-Evolution Methods for Emergent Intelligence in the Physical World</p>
-      <p><strong>Role:</strong> <strong>Principal Investigator / Project Lead</strong>, fully funded by the National Natural Science Foundation of China</p>
+      <h3 class="award-card__title">National Natural Science Foundation of China Undergraduate Research Grant（国家自然科学基金（本科生））</h3>
+      <p><strong>Project:</strong> Research on World Model Construction and Self-Evolution Methods for Intelligent Emergence Oriented to the Physical World</p>
+      <p><strong>Role:</strong> <strong>Principal Investigator</strong>, fully funded by the National Natural Science Foundation of China</p>
     </div>
   </article>
 
@@ -110,7 +107,7 @@ Selected Awards & Funding
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
       <h3 class="award-card__title">SenseTime Scholarship</h3>
-      <p>Selected as one of 30 undergraduate recipients in China.</p>
+      <p>30 undergraduates per year.</p>
     </div>
   </article>
 
@@ -126,16 +123,9 @@ Selected Awards & Funding
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
       <h3 class="award-card__title">Merit Student of Peking University</h3>
-      <p>Recognized for academic performance and campus contribution.</p>
     </div>
   </article>
 </div>
-
-Currently Working On
-------
-- Leading an NSFC-funded undergraduate research project on world model construction and self-evolution for emergent physical-world intelligence
-- Exploring research opportunities in embodied intelligence
-- Organizing academic events and seminars through the Academic Committee of Intelligence Science and Technology
 
 Education
 ------
