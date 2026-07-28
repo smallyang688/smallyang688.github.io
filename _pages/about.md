@@ -35,10 +35,6 @@ Selected Publications
     <div class="publication-card__body">
       <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
       <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
-      <div class="publication-card__meta">
-        <span class="publication-tag">World Action Model</span>
-        <span class="publication-tag publication-tag--highlight">Latent Reasoning</span>
-      </div>
     </div>
   </article>
 
@@ -65,7 +61,6 @@ Selected Publications
       <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
       <div class="publication-card__meta">
         <span class="publication-tag">ACM MM 2026</span>
-        <span class="publication-tag publication-tag--highlight">Continuous VLN</span>
       </div>
     </div>
   </article>
