@@ -47,7 +47,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">Playful Agentic Robot Learning</h3>
-      <p class="publication-card__authors">Junyi Zhang*,&dagger;, Jiaxin Ge*,&dagger;, Hanjun Yoo&dagger;, Letian Fu&Dagger;, <strong>Zihan Yang&Dagger;</strong>, Yaowei Liu&Dagger;, Raj Saravanan&Dagger;, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei&sect;, Haiwen Feng&sect;, Trevor Darrell. [*, &Dagger;, &sect; Equal Contribution; &dagger; Project Leads]</p>
+      <p class="publication-card__authors">Junyi Zhang*,&dagger;, Jiaxin Ge*,&dagger;, Hanjun Yoo&dagger;, Letian Fu&Dagger;, <strong>Zihan Yang&Dagger;</strong>, Yaowei Liu&Dagger;, Raj Saravanan&Dagger;, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei&sect;, Haiwen Feng&sect;, Trevor Darrell. [&dagger;, &Dagger;, &sect; Equal Contribution; * Project Leads]</p>
       <div class="publication-card__meta">
         <span class="publication-tag">arXiv 2026</span>
         <a class="publication-link" href="https://arxiv.org/abs/2606.19419">Paper</a>
