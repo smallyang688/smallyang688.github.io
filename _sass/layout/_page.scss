@@ -170,7 +170,6 @@
   font-size: 0.95rem;
   font-weight: 700;
   line-height: 1.25;
-  border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   background: var(--global-card-bg-color, #fff);
 
@@ -205,8 +204,8 @@
 .publication-card__authors {
   margin-bottom: 0.65rem;
   color: var(--global-text-color);
-  font-size: 0.9rem;
-  line-height: 1.45;
+  font-size: 0.82rem;
+  line-height: 1.4;
 }
 
 .publication-card__meta {

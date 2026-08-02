@@ -34,7 +34,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
-      <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <p class="publication-card__authors">Xuheng Zhang&dagger;, Yiming Zhang&dagger;, Jialin Gao&dagger;, Hao Chen&dagger;, Jiaming Liu&dagger;, Ji Li, Runzhong Huang, Yinxi Wang, Chenyang Gu, <strong>Zihan Yang</strong>, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang&Dagger;.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">arXiv 2026</span>
       </div>
@@ -47,7 +47,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">Playful Agentic Robot Learning</h3>
-      <p class="publication-card__authors">Junyi Zhang*,&dagger;, Jiaxin Ge*,&dagger;, Hanjun Yoo&dagger;, Letian Fu&Dagger;, <strong>Zihan Yang&Dagger;</strong>, Yaowei Liu&Dagger;, Raj Saravanan&Dagger;, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei&sect;, Haiwen Feng&sect;, Trevor Darrell. [&dagger;, &Dagger;, &sect; Equal Contribution; * Project Leads]</p>
+      <p class="publication-card__authors">Junyi Zhang*,&dagger;, Jiaxin Ge*,&dagger;, Hanjun Yoo&dagger;, Letian Fu&Dagger;, <strong>Zihan Yang&Dagger;</strong>, Yaowei Liu&Dagger;, Raj Saravanan&Dagger;, Shaofeng Yin, Justin Yu, Dantong Niu, Zirui Wang, Roei Herzig, Ken Goldberg, Yutong Bai, David M. Chan, Ion Stoica, Angjoo Kanazawa, Jiahui Lei&sect;, Haiwen Feng&sect;, Trevor Darrell.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">arXiv 2026</span>
         <a class="publication-link" href="https://arxiv.org/abs/2606.19419">Paper</a>
@@ -61,7 +61,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
-      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">ACM MM 2026</span>
       </div>
@@ -74,7 +74,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions</h3>
-      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, Zhuoyuan Yu, <strong>Zihan Yang</strong>, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, Zhuoyuan Yu, <strong>Zihan Yang</strong>, Minghan Wang, Jiapeng Xu, Yihan Wang, Ziyan Yu, Wenzhe Cai, Lei Kang, Hao Dong&Dagger;.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">ICRA 2026</span>
         <a class="publication-link" href="https://arxiv.org/abs/2510.08173">Paper</a>
@@ -88,7 +88,7 @@ Selected Publications
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model</h3>
-      <p class="publication-card__authors">Zhuoyuan Yu&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang</strong>, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong&Dagger;. [&dagger;Equal Contribution, &Dagger;Corresponding Author]</p>
+      <p class="publication-card__authors">Zhuoyuan Yu&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang</strong>, Chengyan Zeng, Hongwei Fan, Jiyao Zhang, Hao Dong&Dagger;.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">AAAI 2026</span>
         <a class="publication-link" href="https://arxiv.org/abs/2508.10416">Paper</a>
