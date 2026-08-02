@@ -30,7 +30,7 @@ Selected Publications
 <div class="publication-list">
   <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--world">
-      <span>LaST<sub>0.5</sub></span>
+      <img src="/images/publications/last05.png" alt="LaST0.5 teaser">
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">LaST<sub>0.5</sub>: A Generalist World Action Model with Interaction-Centric Latent Reasoning</h3>
@@ -43,7 +43,7 @@ Selected Publications
 
   <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--robot">
-      <span>Playful Agentic Robot Learning</span>
+      <img src="/images/publications/rats.png" alt="Playful Agentic Robot Learning teaser">
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">Playful Agentic Robot Learning</h3>
@@ -57,7 +57,7 @@ Selected Publications
 
   <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--navigation">
-      <span>VTInstructor</span>
+      <img src="/images/publications/vtinstructor.png" alt="VTInstructor teaser">
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments</h3>
@@ -70,7 +70,7 @@ Selected Publications
 
   <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--space">
-      <span>NavSpace</span>
+      <img src="/images/publications/navspace.png" alt="NavSpace teaser">
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions</h3>
@@ -84,7 +84,7 @@ Selected Publications
 
   <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--correction">
-      <span>CorrectNav</span>
+      <img src="/images/publications/correctnav.png" alt="CorrectNav teaser">
     </div>
     <div class="publication-card__body">
       <h3 class="publication-card__title">CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model</h3>
