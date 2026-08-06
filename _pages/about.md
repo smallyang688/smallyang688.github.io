@@ -106,7 +106,7 @@ Selected Awards & Funding
       <h3 class="award-card__title award-card__title--highlight">National Natural Science Foundation of China Undergraduate Research Grant（国家自然科学基金（本科生））</h3>
       <p><strong>Project:</strong> Research on World Model Construction and Self-Evolution Methods for Intelligent Emergence Oriented to the Physical World</p>
       <p><strong>Role:</strong> <strong>Principal Investigator</strong>, fully funded by the National Natural Science Foundation of China</p>
-      <p>Only two undergraduate recipients from the School of Electronics Engineering and Computer Science each year!</p>
+      <p>2 recipients from PKU EECS each year!</p>
     </div>
   </article>
 
