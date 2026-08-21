@@ -129,7 +129,7 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">北京大学“江泽涵杯”数学建模大赛一等奖</h3>
+      <h3 class="award-card__title">First Prize, Peking University "Jiang Zehan Cup" Mathematical Modeling Competition</h3>
     </div>
   </article>
 
@@ -151,7 +151,7 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2022</div>
     <div class="award-card__body">
-      <h3 class="award-card__title">全国高中数学联赛广东省一等奖</h3>
+      <h3 class="award-card__title">First Prize, Guangdong Province, Chinese High School Mathematics League</h3>
     </div>
   </article>
 </div>
