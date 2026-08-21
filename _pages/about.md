@@ -64,6 +64,7 @@ Selected Publications
       <p class="publication-card__authors">Haolin Yang&dagger;, Yuxing Long&dagger;, <strong>Zihan Yang&dagger;</strong>, Hao Dong&Dagger;.</p>
       <div class="publication-card__meta">
         <span class="publication-tag">ACM MM 2026</span>
+        <a class="publication-link" href="https://arxiv.org/abs/2608.15284">Paper</a>
       </div>
     </div>
   </article>
@@ -126,6 +127,13 @@ Selected Awards & Funding
   </article>
 
   <article class="award-card">
+    <div class="award-card__date">2026</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">北京大学“江泽涵杯”数学建模大赛一等奖</h3>
+    </div>
+  </article>
+
+  <article class="award-card">
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
       <h3 class="award-card__title award-card__title--highlight">National Scholarship</h3>
@@ -137,6 +145,13 @@ Selected Awards & Funding
     <div class="award-card__date">2025</div>
     <div class="award-card__body">
       <h3 class="award-card__title">Merit Student of Peking University</h3>
+    </div>
+  </article>
+
+  <article class="award-card">
+    <div class="award-card__date">2022</div>
+    <div class="award-card__body">
+      <h3 class="award-card__title">全国高中数学联赛广东省一等奖</h3>
     </div>
   </article>
 </div>
