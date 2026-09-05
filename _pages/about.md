@@ -13,9 +13,9 @@ redirect_from:
 
 About Me
 ------
-I am Zihan Yang, currently a sophomore student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University. Serving as the Vice President of the Academic Committee of Intelligence Science and Technology ([ZhiXueHui](https://mp.weixin.qq.com/s/_nTF0C9K6FpObSR_m7Hy6A)).
+I am Zihan Yang, an undergraduate student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University, expected to graduate in 2028. I currently serve as the Vice President of the Academic Committee of Intelligence Science and Technology ([ZhiXueHui](https://mp.weixin.qq.com/s/_nTF0C9K6FpObSR_m7Hy6A)).
 
-My primary research interest lies in **Embodied AI**, focusing on how intelligent agents can learn and interact with physical environments through sensory-motor experiences. I believe that true intelligence emerges from the interaction between an agent and its environment, and I am excited to contribute to this rapidly evolving field.
+My research interests lie in **Embodied AI**, with a particular focus on **Code as Policy** and agentic approaches for robot manipulation. I am interested in building intelligent agents that can reason, plan, and translate high-level intentions into executable actions in the physical world. I have also worked on vision-language navigation, vision-language-action models, and world models, which have shaped my broader understanding of how perception, language, action, and environment dynamics can be integrated for embodied intelligence.
 
 I enjoy playing the guitar, shuttlecock kicking, playing table tennis, and chatting with people.
 
