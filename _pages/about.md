@@ -105,13 +105,14 @@ Selected Awards & Funding
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
       <h3 class="award-card__title award-card__title--highlight">National Scholarship（国奖奖学金）</h3>
+      <p>Highest honor for undergraduates in China!</p>
     </div>
   </article>
 
   <article class="award-card">
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
-      <h3 class="award-card__title award-card__title--highlight">Peking University Outstanding Three-Good Student（北京大学三好学生标兵）</h3>
+      <h3 class="award-card__title award-card__title--highlight">Outstanding Merit Student of Peking University（北京大学三好学生标兵）</h3>
     </div>
   </article>
 
