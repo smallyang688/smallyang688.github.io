@@ -104,7 +104,7 @@ Selected Awards & Funding
   <article class="award-card">
     <div class="award-card__date">2026</div>
     <div class="award-card__body">
-      <h3 class="award-card__title award-card__title--highlight">National Scholarship（国奖奖学金）</h3>
+      <h3 class="award-card__title award-card__title--highlight">National Scholarship（国家奖学金）</h3>
       <p>Highest honor for undergraduates in China!</p>
     </div>
   </article>
