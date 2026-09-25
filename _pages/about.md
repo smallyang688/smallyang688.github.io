@@ -15,15 +15,18 @@ About Me
 ------
 I am Zihan Yang, an undergraduate student in the Intelligent Science and Technology program ([Zhi Class](https://zhi-class.ai)) at Peking University, expected to graduate in 2028. I currently serve as the Vice President of the Academic Committee of Intelligence Science and Technology ([ZhiXueHui](https://mp.weixin.qq.com/s/_nTF0C9K6FpObSR_m7Hy6A)).
 
-My research interests lie in **Embodied AI**, with a particular focus on **Code as Policy** and agentic approaches for robot manipulation. I am interested in building intelligent agents that can reason, plan, and translate high-level intentions into executable actions in the physical world. I have also worked on **Vision-Language Navigation (VLN)**, **Vision-Language-Action Models (VLA)**, and **World Models**, which have shaped my broader understanding of how perception, language, action, and environment dynamics can be integrated for embodied intelligence.
+My research interests lie in **Agentic AI**, especially the learning, reasoning, planning, and self-improvement of intelligent agents. I am particularly interested in how agents can acquire capabilities through interaction, reinforcement learning, and post-training, and how they can turn high-level goals into reliable actions in complex environments. I am joining [Prof. Ling Yang's research group](https://yangling0818.github.io/) at Peking University as a research intern, broadening my work toward agentic systems and their learning dynamics.
+
+My previous work focuses on **physical agents**—agents that perceive, reason, learn, and act in the physical world. This includes **Embodied AI**, **Code as Policy**, robot manipulation, **Vision-Language Navigation (VLN)**, **Vision-Language-Action Models (VLA)**, and **World Models**. More recently, I have been transitioning toward agentic research through projects such as **Playful Agentic Robot Learning**, with the goal of understanding how general agentic principles can support both physical and digital agents.
 
 I enjoy playing the guitar, shuttlecock kicking, playing table tennis, and chatting with people.
 
 Research Interests
 ------
-- Agentic Robot Learning / Code as Policy
-- Vision-Language Navigation
-- VLA / World Model
+- Agentic AI: Learning, Reasoning, and Self-Improvement
+- LLM / Agent Post-Training and Reinforcement Learning
+- Physical Agents and Embodied Intelligence
+- Vision-Language-Action Models / World Models
 
 Selected Publications
 ------
