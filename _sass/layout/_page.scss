@@ -239,6 +239,14 @@
   border-color: var(--global-base-color);
 }
 
+.publication-tag--spotlight {
+  font-family: $serif;
+  font-style: italic;
+  color: var(--global-button-text-color, #fff);
+  background: var(--global-base-color);
+  border-color: var(--global-base-color);
+}
+
 .publication-link {
   color: var(--global-link-color);
   background: transparent;
