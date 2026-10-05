@@ -27,8 +27,8 @@ author:
   name             : "Zihan Yang"
   pronouns         : # example: "she/her"  
   bio              : "Agentic AI · Physical Agents"
-  location         : "Beijing,China"
-  employer         : "Peking University"
+  location         :
+  employer         :
   uri              : # URL
   email            :
 
