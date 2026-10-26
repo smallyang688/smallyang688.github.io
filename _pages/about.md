@@ -33,6 +33,20 @@ Selected Publications
 ------
 <div class="publication-list">
   <article class="publication-card">
+    <div class="publication-card__teaser publication-card__teaser--navigation">
+      <img src="/images/publications/representnav.png" alt="RepresentNav teaser">
+    </div>
+    <div class="publication-card__body">
+      <h3 class="publication-card__title">See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space</h3>
+      <p class="publication-card__authors">Jiawei Chen*, Yinxi Wang*&dagger;, <strong>Zihan Yang*</strong>, Meijun Gao*, Yaowei Liu*, Shuming Zhang*, Zecheng Li, Xiangju Mi, Yuxuan Liu, Runzhong Huang, Tianlin Li, Xun Zhang, Zhengyang Wang, Xu Miao&#9993;, Tong Yang&#9993;.</p>
+      <div class="publication-card__meta">
+        <span class="publication-tag">arXiv 2026</span>
+        <a class="publication-link" href="https://arxiv.org/abs/2610.31762">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
     <div class="publication-card__teaser publication-card__teaser--world">
       <img src="/images/publications/last05.png" alt="LaST0.5 teaser">
     </div>
