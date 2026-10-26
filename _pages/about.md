@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Zihan Yang"
-seo_title: "Zihan Yang|杨子涵"
+seo_title: "Zihan Yang | 杨子涵"
 author_profile: true
 redirect_from:
   - /about/
